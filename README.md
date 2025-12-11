@@ -66,7 +66,7 @@ Predictive modeling for sales and customer behavior forecasting
 
 Divya Sharma
 Email: divya649sharma99@gmail.com
-GitHub: GitHub: github.com/Divya9916
+GitHub: github.com/Divya9916
 LinkedIn: www.linkedin.com/in/divya9916
 
 ## License
