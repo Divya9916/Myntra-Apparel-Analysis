@@ -48,10 +48,8 @@ Certain sizes are consistently out of stock
 Top-rated products often have competitive pricing
 
 ## Repository Structure
-Myntra-Apparel-Analysis/
-├── Dataset/           # Raw and cleaned datasets
-├── Analysis/          # Excel sheets with detailed analysis
-└── README.md          # Project documentation
+<img width="558" height="179" alt="image" src="https://github.com/user-attachments/assets/7eb0bab4-da33-4551-8e2b-909222b8e4f7" />
+
 
 ## Future Scope
 
