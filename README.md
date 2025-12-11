@@ -49,7 +49,6 @@ Top-rated products often have competitive pricing
 
 ## Repository Structure
 Myntra-Apparel-Analysis/
-│
 ├── Dataset/           # Raw and cleaned datasets
 ├── Analysis/          # Excel sheets with detailed analysis
 └── README.md          # Project documentation
