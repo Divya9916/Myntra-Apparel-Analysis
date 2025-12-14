@@ -48,8 +48,7 @@ Certain sizes are consistently out of stock
 Top-rated products often have competitive pricing
 
 ## Repository Structure
-<img width="571" height="282" alt="image" src="https://github.com/user-attachments/assets/d65f1c4b-0ad7-4f9f-9be0-03ef979601d6" />
-
+<img width="425" height="256" alt="image" src="https://github.com/user-attachments/assets/cce3836d-585f-4f0e-bac0-7af1de265114" />
 
 
 ## Future Scope
